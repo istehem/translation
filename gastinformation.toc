@@ -1,0 +1,29 @@
+\select@language {american}
+\contentsline {chapter}{\numberline {1}Information fr\IeC {\r a}n A - Z (Information von A to Z)}{3}
+\contentsline {section}{\numberline {1.1}Avresa (Abreise)}{3}
+\contentsline {section}{\numberline {1.2}Ankomst (Anreise)}{3}
+\contentsline {section}{\numberline {1.3}L\IeC {\"a}kare / Sjukhus (Arzt / Kr\IeC {\"a}nkenh\IeC {\"a}user)}{3}
+\contentsline {section}{\numberline {1.4}Apotek (Apotheke)}{3}
+\contentsline {section}{\numberline {1.5}Barns\IeC {\"a}ngar (Babybetten)}{3}
+\contentsline {section}{\numberline {1.6}Bibliotek (Bibliothek)}{4}
+\contentsline {section}{\numberline {1.7}Brand / Brandsl\IeC {\"a}ckare (Feuer / Feurl\IeC {\"o}scher)}{4}
+\contentsline {section}{\numberline {1.8}Internetanslutning (Internetzugang)}{4}
+\contentsline {section}{\numberline {1.9}\IeC {\"O}nskan om konferens eller bankett (Konferenz- und Bankettr\IeC {\"a}ume)}{4}
+\contentsline {section}{\numberline {1.10}Kreditkort / EC-Kort (Kreditkarten / EC Karte)}{4}
+\contentsline {section}{\numberline {1.11}R\IeC {\"o}kning / R\IeC {\"o}kf\IeC {\"o}rbud (Nichtraucher)}{4}
+\contentsline {section}{\numberline {1.12}Parkeringsplatser (Parkpl\IeC {\"a}tze)}{4}
+\contentsline {section}{\numberline {1.13}Post (Post)}{5}
+\contentsline {section}{\numberline {1.14}Reception (Rezeption)}{5}
+\contentsline {section}{\numberline {1.15}S\IeC {\"a}kerhetsf\IeC {\"o}rvaring (Safe)}{5}
+\contentsline {section}{\numberline {1.16}Taxi (Taxi)}{5}
+\contentsline {section}{\numberline {1.17}TV-utbud (TV-Programme)}{5}
+\contentsline {section}{\numberline {1.18}Rumsnyckel (Zimmersch\IeC {\"u}\IeC {\ss }el)}{5}
+\contentsline {chapter}{\numberline {2}Restauranger och Barer (Restaurants \& Bar)}{6}
+\contentsline {section}{\numberline {2.1}Frukost (Breakfast)}{6}
+\contentsline {section}{\numberline {2.2}Salong (Salon)}{6}
+\contentsline {subsection}{\numberline {2.2.1}Hubertus}{6}
+\contentsline {section}{\numberline {2.3}Restauranger}{6}
+\contentsline {subsection}{\numberline {2.3.1}Restaurang: J\IeC {\"a}garstuben}{6}
+\contentsline {subsection}{\numberline {2.3.2}Lobby (Lobby)}{6}
+\contentsline {subsection}{\numberline {2.3.3}Castlebar}{6}
+\contentsline {chapter}{\numberline {3}Telefon / Service (Telephone-Service)}{7}
