@@ -17,7 +17,7 @@
 \contentsline {section}{\numberline {1.15}S\IeC {\"a}kerhetsf\IeC {\"o}rvaring (Safe)}{5}
 \contentsline {section}{\numberline {1.16}Taxi (Taxi)}{5}
 \contentsline {section}{\numberline {1.17}TV-utbud (TV-Programme)}{5}
-\contentsline {section}{\numberline {1.18}Rumsnyckel (Zimmersch\IeC {\"u}\IeC {\ss }el)}{5}
+\contentsline {section}{\numberline {1.18}Rumsnyckel (Zimmerschl\IeC {\"u}\IeC {\ss }el)}{5}
 \contentsline {chapter}{\numberline {2}Restauranger och Barer (Restaurants \& Bar)}{6}
 \contentsline {section}{\numberline {2.1}Frukost (Breakfast)}{6}
 \contentsline {section}{\numberline {2.2}Salong (Salon)}{6}
